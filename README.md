@@ -5,7 +5,7 @@ GoGym is a Gym Training web application that allows users to register, log in, a
 
 Additionally, users can apply to become trainers, and administrators have the authority to manage requests. GoGym features three types of dashboards: **Admin**, **Trainer**, and **Member**, each tailored for its respective user type.
 
-- [live link](https://gogym-652df.web.app) 
+- [GoGym live link](https://gogym-652df.web.app) 
 
 
 ## Features
@@ -32,5 +32,25 @@ Additionally, users can apply to become trainers, and administrators have the au
 * React modal
 * rsweetalert2
 * Stripe
-*          
+
+## Usage
+
+### User Roles and Dashboards
+**Admin:**
+
+* Manage users and memberships.
+* Approve or reject trainer applications.
+
+**Trainer:**
+
+* Set available time slots and manage their schedule.
+* Manage training packages for users.
+
+**Member:**
+
+* Explore available training classes and trainers.
+* Purchase packages and make payments via Stripe.
+* Apply to become a trainer.
+* Payment Integration
+* Payments are processed securely using Stripe. Ensure your Stripe API key is properly configured in the .env.local file.    
 
