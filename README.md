@@ -26,11 +26,11 @@ Additionally, users can apply to become trainers, and administrators have the au
 * MongoDB
 * Firebase for Authentication
 * React  Icons
-* Animate.css
-* DaisyUI
+* MaterialUI Tailwindcss
 * React router dom
 * React-simple-typewriter
 * React modal
 * rsweetalert2
-
+* Stripe
+*          
 
